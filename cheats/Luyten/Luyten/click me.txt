@@ -1,0 +1,4 @@
+﻿
+
+Note: Open it with any Anydesk processes closed, otherwise it will open 
+      the normal luyten. :)
